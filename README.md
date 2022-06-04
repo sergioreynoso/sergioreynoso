@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Frontend Engineer with an eye for design, attention to detail, and a passion for product design and user experience. With over ten years of experience as a designer and developer, I leverage my expertise in building high-quality user experiences that are accessible and delight users.
+I'm a Frontend Engineer with an eye for design, attention to detail, and a passion for product design. With over ten years of experience as a designer and developer, I leverage my expertise in building high-quality user experiences that are accessible and delight users.
 
 <!--
 **sergioreynoso/sergioreynoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
